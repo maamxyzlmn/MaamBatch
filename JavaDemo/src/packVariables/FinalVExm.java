@@ -7,8 +7,8 @@ public class FinalVExm {
 	int b=20;
 	public void add(){
 	//	a=200;
-		final int x=299;
-		System.out.println(a+b+x);
+		int a=20;
+		System.out.println(a+b);
 	}
 	public static void main(String[] args) {
 		FinalVExm f=new FinalVExm();

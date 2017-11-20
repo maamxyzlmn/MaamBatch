@@ -7,7 +7,7 @@ public class B {
 
 	public static void add() {
 		//static int x=30;
-		b=300;
+		 b=300;
 		B bb = new B();
 		System.out.println(bb.a + b);
 	}
