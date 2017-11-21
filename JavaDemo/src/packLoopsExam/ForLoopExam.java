@@ -7,7 +7,7 @@ public class ForLoopExam {
 		for(int i=0; i<=100;i++){
 			
 			if(city=="Bangalore"){
-				System.out.print(i+"   ---->");
+				System.out.print(i+ "   ---->");
 				System.out.println("Hello  :"+city);
 			}
 			//System.out.println("print numeric nums :"+i);
